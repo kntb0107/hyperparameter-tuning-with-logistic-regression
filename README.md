@@ -1,5 +1,5 @@
 # Hyperparameter Tuning with Logistic Regression
-Optimisation and Deep Learning course project - individual part
+Optimisation and Deep Learning course project
 
 # Contents
 
