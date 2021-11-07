@@ -1,6 +1,8 @@
 # Hyperparameter Tuning with Logistic Regression
 Optimisation and Deep Learning course project
 
+Kaggle Dataset: https://www.kaggle.com/geomack/spotifyclassification
+
 # Contents
 
 1. Data Understanding
